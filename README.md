@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **ReactJS**
 
 <div>
-  <a href="https://github.com/luizcesaralmeida"></a>
+  <a href="https://github.com/luizcesaralmeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcesaralmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcesaralmeida&layout=compact&langs_count=10&theme=dark"/>
 </div>
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
   <img align="center" alt="LuizCesar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>  
   <img align="center" alt="LuizCesar-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 </div>
+</a>
