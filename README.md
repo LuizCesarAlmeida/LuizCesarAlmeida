@@ -1,6 +1,3 @@
-<style>
-  .red {color: red}
-</style>
 ### Hi there 👋
 
 - 🔭 I’m currently working on **ONS**
