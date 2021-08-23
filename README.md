@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: **JavaScript**, **TypeScript**, **VueJS**, **ReactJS**, **PowerShell** and **Sharepoint**.
 
 <div>
-  <a href="https://github.com/luizcesaralmeida"></a>
+  <a href="https://github.com/luizcesaralmeida">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcesaralmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizcesaralmeida&layout=compact&langs_count=10&theme=dark"/>
