@@ -2,11 +2,7 @@
 
 - 🔭 I’m currently working on **ONS**
 - 🌱 I’m currently learning: **JavaScript**, **TypeScript**, **VueJS**, **ReactJS**, **PowerShell** and **Sharepoint**.
-<style>
-  a {
-    color: transparent !important;
-  }
-</style>
+
 <div style="color: transparent !important;">
   <a href="https://github.com/luizcesaralmeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizcesaralmeida&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
