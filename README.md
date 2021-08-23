@@ -1,4 +1,3 @@
-<link href="style.css" rel="stylesheet"></link>
 ### Hi there 👋
 
 - 🔭 I’m currently working on **ONS**
