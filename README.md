@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **ONS**
-- 🌱 I’m currently learning: **JavaScript**, **TypeScript**, **VueJS**, **ReactJS**, **PowerShell** and **Sharepoint**.
+- 🌱 I’m currently learning: **JavaScript**, **C#**, **Java**, **TypeScript**, **VueJS**, **ReactJS**, **PowerShell** and **Sharepoint**.
 
 <div>
   <a href="https://github.com/luizcesaralmeida">
